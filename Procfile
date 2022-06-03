@@ -1,1 +1,1 @@
-bot: bash heroku.sh
+web: bash heroku.sh
