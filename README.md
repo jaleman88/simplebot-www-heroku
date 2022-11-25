@@ -5,5 +5,5 @@ A [Heroku](https://app.qoddi.com) deployment of [SimpleBot](https://github.com/s
 
 To setup your own bot instance just click the button below:
 
-[![Deploy](https://app.qoddi.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adbenitez/simplebot-www-heroku/tree/main/)
+[![Deploy](https://app.qoddi.com/deploy/button.svg)](https://app.qoddi.com/deploy?template=https://github.com/adbenitez/simplebot-www-heroku/tree/main/)
 
